@@ -22,7 +22,9 @@ I enjoy building real-world projects and exploring new technologies to sharpen m
 
 ### 🛠 Projects
 - 📺 **YouTube UI Clone** – responsive interface using HTML & CSS  
-- 🛒 **Amazon Clone** – homepage with interactivity using HTML, CSS & JS  
+- 🛒 **Amazon Clone** – homepage with interactivity using HTML, CSS & JS
+
+### 🛠 Mini Projects
 - 🧮 **Calculator** – JavaScript-based  
 - ⏱ **Stopwatch** – simple timer app  
 - 📝 **To-Do List** – task manager with JS  
